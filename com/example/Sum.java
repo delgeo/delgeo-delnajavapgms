@@ -105,3 +105,8 @@ public class Sum {
 }
 
 // Right-click -> 'Run Java' will print 33
+
+// hi
+// hello
+// how are you
+// This is to learn git
