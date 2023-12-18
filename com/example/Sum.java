@@ -17,7 +17,7 @@ public class Sum {
     o we can even give values to the variables like int a = 10; int b = 5+2;
     o this cannot be an expression
     o unsigned int can also be declared [ unsigned int a = 10; ]
-    o by default it is signed
+    o by default it is signed.
 
     o if we don't specify the correct sized variable, then it will create some ambiguity as below:
     o eg: we declared a var of 8 bits, we need to store a var of 9 bits, 
